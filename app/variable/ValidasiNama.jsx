@@ -1,7 +1,7 @@
 // Soal 2: Validasi Nama Pengguna (Username Trim & Length)
 
 export default function ValidasiNamaPenggunaBaru() {
-  const rawUsername = " marcella_admin";
+  const rawUsername = " marcellaa_admin";
   const countUsernameBeforeFiltered = rawUsername.length;
   const usernameFiltered = rawUsername.trim();
   const countUsernameAfrerFiltered = usernameFiltered.length;
